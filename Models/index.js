@@ -11,7 +11,7 @@ let database = {
 			dbName: DB_NAME,
 			useFindAndModify: false,
 		});
-		console.log('connected successfull');
+		console.log('connected successfull to database');
 	},
 };
 
